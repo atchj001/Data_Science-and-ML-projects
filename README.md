@@ -6,5 +6,6 @@ A collection of data-science/ML side projects:
 - **Titanic** – an exploratory + modeling notebook working off the provided Excel dataset.  
 - **Pipelines (1-1_Pipelines)** – a notebook demonstrating ML workflow/pipelines.  
 - **Iris** – a classic classification notebook on the Iris dataset.
+- **Fraud Detection** – Fraud detection project with an analysis model and a Streamlit app powered by a trained ML pipeline
 
 
